@@ -1,0 +1,22 @@
+{
+  "name": "latehours-bright",
+  "displayName": "Latehours Bright",
+  "description": "Minimal theme with a focus on code. As UI is mostly hidden, learning shotcuts is mandatory. Also, command palette is your best friend. Based on Solarized Light.",
+  "version": "1.0.0",
+  "publisher": "jz",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Latehours Bright",
+        "uiTheme": "vs",
+        "path": "./themes/Latehours Bright-color-theme.json"
+      }
+    ]
+  }
+}
