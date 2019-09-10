@@ -4,6 +4,9 @@
   "description": "Minimal theme with a focus on code. As UI is mostly hidden, learning shotcuts is mandatory. Also, command palette is your best friend. Based on Solarized Light.",
   "version": "1.0.0",
   "publisher": "jz",
+  "repository": {
+    "url": "https://github.com/jozan/latehours-bright-theme"
+  },
   "engines": {
     "vscode": "^1.38.0"
   },
