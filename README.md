@@ -21,6 +21,7 @@ To complete the minimal layout after installing put these into your `settings.js
   "window.zoomLevel": 1,
   "workbench.editor.showIcons": true,
   "workbench.sideBar.location": "right",
+  "workbench.activityBar.visible": false,
 ```
 
 This theme is based on Solarized Light.
