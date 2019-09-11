@@ -1,5 +1,6 @@
 {
   "name": "latehours-bright",
+  "license": "SEE LICENSE IN LICENSE",
   "displayName": "Latehours Bright",
   "description": "Minimal theme with a focus on code. As UI is mostly hidden, learning shotcuts is mandatory. Also, command palette is your best friend. Based on Solarized Light.",
   "version": "1.1.0",
@@ -13,6 +14,10 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#FDF6E4",
+    "theme": "light"
+  },
   "contributes": {
     "themes": [
       {

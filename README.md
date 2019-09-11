@@ -2,6 +2,16 @@
 
 Minimal theme with a focus on code. As UI is mostly hidden, learning shotcuts is mandatory. Also, command palette is your best friend.
 
+![Screenshot of Latehours Bright Theme](./screenshot.png)
+
+### Install
+
+Press `ctrl/command + p` to launch the command palette then run
+
+```
+ext install latehours-bright
+```
+
 To complete the minimal layout after installing put these into your `settings.json`
 
 ```json
@@ -24,6 +34,7 @@ To complete the minimal layout after installing put these into your `settings.js
   "workbench.activityBar.visible": false,
 ```
 
+## Credits
 This theme is based on Solarized Light.
 
 **Enjoy!**
